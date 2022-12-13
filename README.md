@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/PuneethReddyHC/online-shopping-system-advanced)
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.shop)
 
-Updating readme file
+Updating readme file - For cherrypicking verification
 
 <a href="https://www.buymeacoffee.com/PuneethReddyHC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
