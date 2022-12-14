@@ -2,6 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.shop)
 
 Updating readme file - For cherrypicking verification
+New Fix for Master
 
 <a href="https://www.buymeacoffee.com/PuneethReddyHC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
