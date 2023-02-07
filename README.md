@@ -1,6 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/PuneethReddyHC/online-shopping-system-advanced)
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.shop)
 
+Now doing the cherry pick pr 
 Updating readme file - For cherrypicking verification
 New Fix for Master
 
